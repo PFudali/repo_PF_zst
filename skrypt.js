@@ -1,4 +1,4 @@
-function mod1()
+function funkja_2()
 {
     
 }
