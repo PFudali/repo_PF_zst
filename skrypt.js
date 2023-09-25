@@ -1,4 +1,4 @@
-function funkja_2()
+function funkja_1()
 {
     
 }
